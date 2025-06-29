@@ -9,10 +9,10 @@ export async function POST(req: NextRequest) {
 		apiKey: process.env.LANGBASE_API_KEY!,
 	});
 
-	// 2. Generate a stream by asking a question
+	// 2. Generate a text by asking a question
 	const result = await langbase.pipes.run({
 		messages: [{role: 'user', content: prompt}],
-		name: 'summary',
+		name: 'cold-email-gpt',
 		stream: false,
 	});
 
