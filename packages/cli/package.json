@@ -64,7 +64,7 @@
 		"compute-cosine-similarity": "^1.1.0",
 		"cosmiconfig": "^9.0.0",
 		"cosmiconfig-typescript-loader": "^5.0.0",
-		"dotenv": "^16.4.5",
+		"dotenv": "^17.0.0",
 		"esbuild": "^0.24.2",
 		"execa": "^9.4.0",
 		"fast-glob": "^3.3.2",

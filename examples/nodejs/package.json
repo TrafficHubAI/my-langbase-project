@@ -51,7 +51,7 @@
   "license": "UNLICENSED",
   "dependencies": {
     "@langbase/cli": "workspace:*",
-    "dotenv": "^16.4.5",
+    "dotenv": "^17.0.0",
     "langbase": "^1.1.63",
     "uuid": "^11.1.0",
     "zod": "^3.21.4",
