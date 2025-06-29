@@ -33,7 +33,7 @@
 		"dotenv": "^16.4.5",
 		"openai": "^4.82.0",
 		"zod": "^3.23.8",
-		"zod-validation-error": "^3.3.0"
+		"zod-validation-error": "^3.5.2"
 	},
 	"devDependencies": {
 		"@edge-runtime/vm": "^4.0.1",
