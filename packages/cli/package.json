@@ -73,7 +73,7 @@
 		"hono": "^4.5.11",
 		"js-tiktoken": "^1.0.14",
 		"jsdom": "^24.1.0",
-		"log-symbols": "^7.0.0",
+		"log-symbols": "^7.0.1",
 		"lowdb": "^7.0.1",
 		"meow": "^13.2.0",
 		"node-fetch": "^3.3.2",
