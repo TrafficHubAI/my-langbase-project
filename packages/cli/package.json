@@ -78,7 +78,7 @@
 		"meow": "^13.2.0",
 		"node-fetch": "^3.3.2",
 		"open": "^10.1.0",
-		"openai": "^4.63.0",
+		"openai": "^5.8.2",
 		"p-map": "^7.0.2",
 		"picocolors": "^1.1.0",
 		"prettier": "^3.3.3",
